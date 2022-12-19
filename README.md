@@ -17,7 +17,7 @@
 Hi, I'm Kamil. I'm a data scientist / Machine Learning engineer currently working at Deezer. 
 I recently graduated from the master Mathématiques, Vision, Apprentissage (MVA, ENS Paris Saclay). 
 
-I'm always eager to learn. My main areas of interests are:
+I'm always eager to learn. My main areas of interest are:
 
 - Computer Vision 
 - Audio Signal processing 
