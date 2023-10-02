@@ -15,7 +15,7 @@
 ### :man_technologist: About Me :
 
 Hi, I'm Kamil. I'm a data scientist / Machine Learning engineer currently working at Deezer. 
-I recently graduated from the master Mathématiques, Vision, Apprentissage (MVA, ENS Paris Saclay). 
+I graduated from the master Mathématiques, Vision, Apprentissage (MVA, ENS Paris Saclay) in 2022
 
 My main areas of interest are:
 
