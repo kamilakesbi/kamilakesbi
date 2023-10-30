@@ -19,10 +19,11 @@ I graduated from the master Mathématiques, Vision, Apprentissage (MVA, ENS Pari
 
 My main areas of interest are:
 
-- Computer Vision 
-- Audio Signal processing 
-- Music Information Retrieval 
-- Recommender systems
+- Computer Vision.
+- Graphs. 
+- Audio Signal processing and Music Information Retrieval. 
+- Recommender systems.
+  
 
 ---
 
