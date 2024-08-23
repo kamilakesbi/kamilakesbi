@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-
-![Kamil Akesbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilakesbi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 </div>
 
 
